@@ -11,5 +11,10 @@
       "key": "CS-EXAMPLE",
       "name": "Example – replace me"
     }
+    {
+      "device": "A89D-3B90-1827",
+      "key": "CS-0001",
+      "name": "Motorola"
+    }
   ]
 }
