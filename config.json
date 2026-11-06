@@ -1,6 +1,6 @@
 {
-  "minVersionCode": 1,
-  "latestVersionCode": 1,
+  "minVersionCode": 3,
+  "latestVersionCode": 3,
   "updateMessage": "A new version of Collegian Salon is available. Please update to continue.",
   "offlineGraceDays": 7,
   "disabled": false,
