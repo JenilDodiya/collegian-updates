@@ -1,0 +1,11 @@
+{
+  "minVersionCode": 1,
+  "latestVersionCode": 1,
+  "updateMessage": "A new version of Collegian Salon is available. Please update to continue.",
+  "offlineGraceDays": 7,
+  "disabled": false,
+  "disabledMessage": "",
+  "licenses": [
+    { "device": "0000-0000-0000", "key": "CS-EXAMPLE", "name": "Example – replace me" }
+  ]
+}
